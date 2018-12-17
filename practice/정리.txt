@@ -1,0 +1,9 @@
+프로젝트 생성
+C:\Users\Name\djangogirls> django-admin.py startproject mysite .
+설정변경
+https://tutorial.djangogirls.org/ko/django_start_project/
+서버 오픈
+python manage.py runserver
+
+클래스 첫문자는 대문자
+함수는 모두 소문자와 _사용
